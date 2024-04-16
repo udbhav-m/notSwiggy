@@ -1,5 +1,7 @@
 # Swiggy Clone
 
+## Deployment doesn't work because of CORS proxy.
+
 ## Overview
 
 This project is a clone of Swiggy, a popular food delivery platform. It aims to replicate the main features and functionalities of Swiggy, including the home page, search page, and restaurant menu. The project uses Swiggy's API to fetch data such as restaurant listings, menus, and location-based services. Currently, the location is set to Hyderabad, but future updates may include the ability to change locations dynamically.
